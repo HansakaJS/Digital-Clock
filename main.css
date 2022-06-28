@@ -1,0 +1,19 @@
+html, body{
+	height: 100%;
+}
+body{
+	display: grid;
+	background: black;
+	place-items: center;
+}
+/*.clock{
+	height: 120px;
+	width: 500px;
+
+}*/
+.display{
+	color: cyan;
+	font-size: 60px;
+	font-family: sans-serif;
+	letter-spacing: 5px;
+}
